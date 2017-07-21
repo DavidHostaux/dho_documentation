@@ -1,0 +1,25 @@
+****************
+Common practices
+****************
+
+Here is lots of practices use in all langage.
+
+Function name
+*************
+
+Variable name
+*************
+
+Apostrophe or Quote?
+********************
+
+The apostrophe is used in this case:
+
+
+The quote is used in this case:
+
+
+Example (JS):
+=============
+
+.. literalinclude:: includes/js/aoq_example1.js
