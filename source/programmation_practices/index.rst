@@ -2,9 +2,11 @@
 Programming practices
 *********************
 
-Here are the programming practices for the Dho_web development:
+Here are the programming practices for the DHo development:
 
 .. toctree::
    :maxdepth: 2
 
-   common
+   naming_convention
+   versioning_convention
+   comment_convention

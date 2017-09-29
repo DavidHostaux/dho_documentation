@@ -7,7 +7,7 @@
 Welcome
 *******
 
-You are on the documentation for Dho_web
+You are on the documentation for DHo development
 
 Here is the different think you can find:
 
@@ -15,6 +15,7 @@ Here is the different think you can find:
    :maxdepth: 2
 
    programmation_practices/index
+   database_practice/index
 
 Search on documentation
 ***********************
