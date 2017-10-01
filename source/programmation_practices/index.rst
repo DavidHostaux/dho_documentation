@@ -2,7 +2,7 @@
 Programming practices
 *********************
 
-Here are the programming practices for the DHo development:
+Here are the programming practices for the DHo-Javascript development (javascript, jquery, nodeJs, etc):
 
 .. toctree::
    :maxdepth: 2
@@ -10,3 +10,4 @@ Here are the programming practices for the DHo development:
    naming_convention
    versioning_convention
    comment_convention
+   other_informations

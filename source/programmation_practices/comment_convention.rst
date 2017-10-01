@@ -15,7 +15,7 @@ So, you need to describe 3 think:
 
 It use to know what do, need, return the function without read his code.
 
-Exemple:
+Example:
 ========
 
 .. literalinclude:: includes/js/cc_fonction_commentary.js
@@ -26,7 +26,7 @@ Other commentary
 When you do some code that need to have an explication, you can comment it with one line or several line.
 The commentary will not be on the same line of a code line.
 
-Exemple:
+Example:
 ========
 
-.. literalinclude:: includes/js/cc_fonction_commentary.js
+.. literalinclude:: includes/js/cc_other_commentary.js

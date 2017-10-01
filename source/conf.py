@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# DhoWeb_Documentation documentation build configuration file, created by
+# DHo_Documentation documentation build configuration file, created by
 # sphinx-quickstart on Sun Nov 13 21:03:54 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -52,7 +52,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DhoWeb_Documentation'
+project = u'DHo_Documentation'
 copyright = u'2016, David Hostaux'
 author = u'David Hostaux'
 
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DhoWeb_Documentationdoc'
+htmlhelp_basename = 'DHo_Documentationdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'DhoWeb_Documentation.tex', u'DhoWeb\\_Documentation Documentation',
+    (master_doc, 'DHo_Documentation.tex', u'DHo\\_Documentation Documentation',
      u'David Hostaux', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'dhoweb_documentation', u'DhoWeb_Documentation Documentation',
+    (master_doc, 'DHo_documentation', u'DHo_Documentation Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'DhoWeb_Documentation', u'DhoWeb_Documentation Documentation',
-     author, 'DhoWeb_Documentation', 'One line description of project.',
+    (master_doc, 'DHo_Documentation', u'DHo_Documentation Documentation',
+     author, 'DHo_Documentation', 'One line description of project.',
      'Miscellaneous'),
 ]
 

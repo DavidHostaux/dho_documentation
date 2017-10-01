@@ -7,7 +7,7 @@ Versioning
 
 The versioning used is: MAJOR.MINOR.PATCH.
 
-Exemple:
+Example:
 ========
 
 >>> 2.5.4
